@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtMenu">Aplicación</string>
+
+    <string name="txtLanguage">Idioma</string>
+
+    <string name="btnSave">Grabar</string>
+
+    <string name="btnCancel">Cancelar</string>
+</resources>

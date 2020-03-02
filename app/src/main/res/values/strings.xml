@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Idiomas</string>
+
+    <string name="txtMenu">Aplicação</string>
+
+    <string name="txtLanguage">Idioma</string>
+
+    <string name="btnSave">Gravar</string>
+
+    <string name="btnCancel">Cancelar</string>
+</resources>
